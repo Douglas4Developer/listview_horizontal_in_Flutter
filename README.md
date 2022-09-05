@@ -1,6 +1,6 @@
 # listview_horizontal
 
-A new Flutter project.
+Aprendizagem em Flutter, Codigo List View Orientação em Horizontal
 
 ## Getting Started
 
